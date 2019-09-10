@@ -1,4 +1,9 @@
 
-public class GitTest2 {
+ class GitTest2 extends GitTes3{
+	    {
+		
+	}
+
+
 
 }
